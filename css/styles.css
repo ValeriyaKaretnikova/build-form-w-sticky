@@ -58,7 +58,7 @@ svg {
 header {
     position: sticky;
     position: -webkit-sticky;
-    top: -90px;
+    top: -95.08px;
 }
 
 /* Form Styling */
@@ -117,8 +117,7 @@ input[type="submit"]:hover {
     padding-left: 20px;
 }
 
-input:invalid
-{
+input:invalid {
     border: 2px solid var(--red);
 }
 
@@ -139,7 +138,6 @@ input:invalid
 
     .inner-container,
     section {
-        /* padding: 0; */
         max-width: 1200px;
         margin: 0 auto;
     }
